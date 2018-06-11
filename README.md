@@ -34,7 +34,7 @@ Then configure it as follows:
 ```yaml
 - hosts: servers
   roles:
-     - nodesource.node
+     - ansible-nodejs-role
 ```
 
 ## Role Variables
